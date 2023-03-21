@@ -1,0 +1,127 @@
+timestamp=1621318617187
+
+[bancomat]
+A/bancomat=21|./src/Main.vhd|33|1*2474612
+B/bancomat=3*803874
+H/bancomat=0*2594219
+R=./src/Main.vhd|6
+V=0*1971301
+
+[chitanta]
+A/chitanta=A/Chitanta 21|./src/Chitanta.vhd|13|1*2490665
+B/chitanta=3*804837
+H/chitanta=0*2616550
+R=./src/Chitanta.vhd|6
+V=0*1240649
+
+[comparator_id]
+A/comparator_id=A/Comparator_ID 21|./src/Comparator_ID.vhd|14|1*2501479
+B/comparator_id=3*810483
+H/comparator_id=0*2619666
+R=./src/Comparator_ID.vhd|6
+V=0*506259
+
+[comparator_pin]
+A/comparator_pin=A/Comparator_PIN 21|./src/Comparator_PIN.vhd|16|1*2499698
+B/comparator_pin=3*809534
+H/comparator_pin=0*2619127
+R=./src/Comparator_PIN.vhd|6
+V=0*2068722
+
+[depunere_numerar]
+A/depunere_numerar=A/Depunere_numerar 21|./src/Depunere_numerar.vhd|16|1*2493461
+B/depunere_numerar=3*806288
+H/depunere_numerar=0*2617419
+R=./src/Depunere_numerar.vhd|6
+V=0*1294348
+
+[extragere_numerar]
+A/comparator_extragere_suma=A/Comparator_extragere_suma 21|./src/Extragere_numerar.vhd|19|1*2495421
+B/comparator_extragere_suma=3*807191
+H/comparator_extragere_suma=0*2617922
+R=./src/Extragere_numerar.vhd|6
+V=0*1911337
+
+[interogare_sold]
+A/interogare_sold=A/Interogare_sold 21|./src/Interogare_sold.vhd|15|1*2497967
+B/interogare_sold=3*808836
+H/interogare_sold=0*2618658
+R=./src/Interogare_sold.vhd|6
+V=0*1357563
+
+[memorie_ram_pin]
+A/memorie_ram_pin=A/Memorie_RAM_PIN 21|./src/Memorie_RAM_PIN.vhd|16|1*2502939
+B/memorie_ram_pin=3*810963
+H/memorie_ram_pin=0*2620059
+R=./src/Memorie_RAM_PIN.vhd|6
+V=0*1726484
+
+[memorie_rom_id_card]
+A/memorie_rom_id_card=A/Memorie_ROM_ID_Card 21|./src/Memorie_ROM_ID_CARD.vhd|14|1*2504965
+B/memorie_rom_id_card=3*813714
+H/memorie_rom_id_card=0*2620938
+R=./src/Memorie_ROM_ID_CARD.vhd|7
+V=0*446491
+
+[memorie_rom_pin]
+A/memorie_rom_pin=A/Memorie_ROM_PIN 21|./src/Memorie_ROM_PIN.vhd|16|1*1479763
+B/memorie_rom_pin=3*459632
+H/memorie_rom_pin=0*1697624
+R=./src/Memorie_ROM_PIN.vhd|7
+V=0*570946
+
+[schimbare_pin]
+A/schimbare_ram_pin=A/Schimbare_RAM_PIN 21|./src/Schimbare_PIN.vhd|16|1*2491630
+A/schimbare_rom_pin=A/Schimbare_ROM_PIN +21|./src/Schimbare_PIN.vhd|15|1*1217674
+B/schimbare_ram_pin=3*805444
+H/schimbare_ram_pin=0*2616912
+R=./src/Schimbare_PIN.vhd|6
+V=0*2178711
+
+[~A]
+./src/Chitanta.vhd~Chitanta=0*1239547*1239816
+./src/Chitanta.vhd~ChitantaChitanta=0*2616641*2616837
+./src/Comparator_ID.vhd~Comparator_ID=0*504714*505080
+./src/Comparator_ID.vhd~Comparator_IDComparator_ID=0*2619767*2619969
+./src/Comparator_PIN.vhd~Comparator_PIN=0*2067258*2067707
+./src/Comparator_PIN.vhd~Comparator_PINComparator_PIN=0*2619230*2619573
+./src/Depunere_numerar.vhd~Depunere_numerar=0*1292220*1292697
+./src/Depunere_numerar.vhd~Depunere_numerarDepunere_numerar=0*2617526*2617823
+./src/Extragere_numerar.vhd~Comparator_extragere_sumaExtragere_numerar=0*2618047*2618548
+./src/Extragere_numerar.vhd~Extragere_numerar=0*1908419*1909034
+./src/Interogare_sold.vhd~Interogare_sold=0*1355691*1356117
+./src/Interogare_sold.vhd~Interogare_soldInterogare_sold=0*2618763*2619031
+./src/Main.vhd~bancomat=0*1945333*1946465
+./src/Main.vhd~bancomatbancomat=0*2613142*2616479
+./src/Memorie_RAM_PIN.vhd~Memorie_RAM_PIN=0*1724144*1724592
+./src/Memorie_RAM_PIN.vhd~Memorie_RAM_PINMemorie_RAM_PIN=0*2620164*2620842
+./src/Memorie_ROM_ID_CARD.vhd~Comparator_ID=0*42217*42589
+./src/Memorie_ROM_ID_CARD.vhd~Comparator_IDComparator_ID=0*76152*76357
+./src/Memorie_ROM_ID_CARD.vhd~Memorie_ROM_ID_CARD=0*444590*445005
+./src/Memorie_ROM_ID_CARD.vhd~Memorie_ROM_ID_CardMemorie_ROM_ID_Card=0*2621051*2621497
+./src/Memorie_ROM_PIN.vhd~Memorie_ROM_PIN=0*568574*569053
+./src/Memorie_ROM_PIN.vhd~Memorie_ROM_PINMemorie_ROM_PIN=0*1697729*1698407
+./src/Schimbare_PIN.vhd~Schimbare_PIN=0*2176716*2177173
+./src/Schimbare_PIN.vhd~Schimbare_RAM_PINSchimbare_PIN=0*2617021*2617325
+./src/Schimbare_PIN.vhd~Schimbare_ROM_PINSchimbare_PIN=0*1476970*1477242
+ModifyID=5014
+Version=73
+
+[~MFT]
+0=5169|0proiect2.mgf|2621497|2548821
+1=1525|1proiect2.mgf|2504965|2470853
+3=1488|3proiect2.mgf|813714|801123
+
+[~U]
+bancomat=11|0*1968092|0*1968947
+chitanta=11|0*1240245|0*1240385
+comparator_id=11|0*505550|0*505766
+comparator_pin=11|0*2067786|0*2068070
+depunere_numerar=11|0*1293283|0*1293585
+extragere_numerar=11|0*1909855|0*1910273
+interogare_sold=11|0*1356667|0*1356929
+memorie_ram_pin=Memorie_RAM_PIN 11|0*1725552|0*1725831
+memorie_rom_id_card=11|0*445761|0*445986
+memorie_rom_pin=11|0*570013|0*570292
+schimbare_pin=11|0*2177757|0*2178047
+

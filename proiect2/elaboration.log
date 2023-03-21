@@ -1,0 +1,26 @@
+elbread.dll ver. 1.0.5.365 Tue May 18 09:16:01 2021
+
+
+-----------------------------------------------------------
+Entity               | Architecture              | Library
+-----------------------------------------------------------
+bancomat             | bancomat                  | proiect2
+memorie_rom_id_card  | memorie_rom_id_card       | proiect2
+memorie_ram_pin      | memorie_ram_pin           | proiect2
+comparator_id        | comparator_id             | proiect2
+comparator_pin       | comparator_pin            | proiect2
+interogare_sold      | interogare_sold           | proiect2
+extragere_numerar    | comparator_extragere_suma | proiect2
+depunere_numerar     | depunere_numerar          | proiect2
+schimbare_pin        | schimbare_ram_pin         | proiect2
+chitanta             | chitanta                  | proiect2
+-----------------------------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+-----------------------------

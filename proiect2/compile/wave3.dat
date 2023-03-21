@@ -1,0 +1,82 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "a#28#std_logic_vector(3 downto 0)1 ricd3 0 e#9#std_logicc9 UX01ZWLH-"
+I 2 "e#9#std_logicc9 UX01ZWLH-"
+$BUS IN 17 1 4 ID_introdus
+$SC 1-13/4
+$IN +5 2 CS
+$BUS INOUT 38 1 4 ID_ROM
+$SC 22-34/4
+$BUS INOUT 55 1 4 PIN_card
+$SC 39-51/4
+$IN +5 2 writeenable
+$BUS IN 76 1 4 PIN_nou
+$SC 60-72/4
+$INOUT +5 2 OK_ID
+$BUS INOUT 97 1 4 PIN_ROM
+$SC 81-93/4
+$BUS IN +21 1 4 PIN_introdus
+$SC 98-+12/4
+I 3 "a#29#std_logic_vector(11 downto 0)1 ricd11 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS INOUT +53 3 12 S_cont
+$SC 115-+44/4
+$BUS OUT +53 3 12 OK_afisare
+$SC 164-+44/4
+$INOUT +5 2 OK_PIN
+I 4 "a#28#std_logic_vector(1 downto 0)1 ricd1 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS IN +12 4 2 alegere_optiune
+$SC +-8 +4
+$BUS INOUT +53 3 12 S_banca
+$SC 226-+44/4
+$BUS IN +53 3 12 S_extragere
+$SC 275-+44/4
+$OUT +5 2 0 10 OK
+$BUS IN +52 3 12 S_introdusa
+$SC 328-+44/4
+$BUS OUT +21 1 4 PIN_card_ROM
+$SC 377-+12/4
+$IN +5 2 optiune
+$OUT +4 2 Q
+$ENDTIME 100000
+$WAVES +0
+=0 T 0
+=1 D 0 1
+$VALUES
+V 2
+U
+0
+$END
+$WAVES 13
+*0
+=2 T 100k
+$VALUES
+V 2
+0
+1
+$END
+$WAVES 1-9/4 +9 56-72/4 98-+12/4 +5-+44/4 +58 +4 +5-+44/4 +5-+44/4 +9-+44/4 +22
+*0
+$VALUES
+V 1
+0
+$END
+$WAVES 22-34/4 +5-51/4 77-93/4 +71-+44/4 +5 324 +53-+12/4
+*0
+$VALUES
+V 1
+U
+$END
+$ENDTIME 200000
+$WAVES 13
+=3 T 200k
+$VALUES
+V 1
+0
+$END
+$WAVES 9
+*3
+$VALUES
+V 1
+1
+$END
+$ENDWAVE

@@ -1,0 +1,45 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom $DSN/src/main.vhd $DSN/src/chitanta.vhd $DSN/src/schimbare_pin.vhd $DSN/src/depunere_numerar.vhd $DSN/src/extragere_numerar.vhd $DSN/src/interogare_sold.vhd $DSN/src/comparator_pin.vhd $DSN/src/comparator_id.vhd $DSN/src/memorie_ram_pin.vhd $DSN/src/memorie_rom_id_card.vhd
+# Compile...
+# File: C:\Users\orbea\Desktop\Proiect_ATM\proiect2\src\Main.vhd
+# Compile Entity "bancomat"
+# Entity `bancomat' has been skipped - no difference detected.
+# Compile Architecture "bancomat" of Entity "bancomat"
+# File: C:\Users\orbea\Desktop\Proiect_ATM\proiect2\src\Chitanta.vhd
+# Compile Entity "Chitanta"
+# Entity `Chitanta' has been skipped - no difference detected.
+# Compile Architecture "Chitanta" of Entity "Chitanta"
+# File: C:\Users\orbea\Desktop\Proiect_ATM\proiect2\src\Schimbare_PIN.vhd
+# Compile Entity "Schimbare_PIN"
+# Entity `Schimbare_PIN' has been skipped - no difference detected.
+# Compile Architecture "Schimbare_RAM_PIN" of Entity "Schimbare_PIN"
+# File: C:\Users\orbea\Desktop\Proiect_ATM\proiect2\src\Depunere_numerar.vhd
+# Compile Entity "Depunere_numerar"
+# Entity `Depunere_numerar' has been skipped - no difference detected.
+# Compile Architecture "Depunere_numerar" of Entity "Depunere_numerar"
+# File: C:\Users\orbea\Desktop\Proiect_ATM\proiect2\src\Extragere_numerar.vhd
+# Compile Entity "Extragere_numerar"
+# Entity `Extragere_numerar' has been skipped - no difference detected.
+# Compile Architecture "Comparator_extragere_suma" of Entity "Extragere_numerar"
+# File: C:\Users\orbea\Desktop\Proiect_ATM\proiect2\src\Interogare_sold.vhd
+# Compile Entity "Interogare_sold"
+# Entity `Interogare_sold' has been skipped - no difference detected.
+# Compile Architecture "Interogare_sold" of Entity "Interogare_sold"
+# File: C:\Users\orbea\Desktop\Proiect_ATM\proiect2\src\Comparator_PIN.vhd
+# Compile Entity "Comparator_PIN"
+# Entity `Comparator_PIN' has been skipped - no difference detected.
+# Compile Architecture "Comparator_PIN" of Entity "Comparator_PIN"
+# File: C:\Users\orbea\Desktop\Proiect_ATM\proiect2\src\Comparator_ID.vhd
+# Compile Entity "Comparator_ID"
+# Entity `Comparator_ID' has been skipped - no difference detected.
+# Compile Architecture "Comparator_ID" of Entity "Comparator_ID"
+# File: C:\Users\orbea\Desktop\Proiect_ATM\proiect2\src\Memorie_RAM_PIN.vhd
+# Compile Entity "Memorie_RAM_PIN"
+# Entity `Memorie_RAM_PIN' has been skipped - no difference detected.
+# Compile Architecture "Memorie_RAM_PIN" of Entity "Memorie_RAM_PIN"
+# File: C:\Users\orbea\Desktop\Proiect_ATM\proiect2\src\Memorie_ROM_ID_CARD.vhd
+# Compile Entity "Memorie_ROM_ID_CARD"
+# Entity `Memorie_ROM_ID_CARD' has been skipped - no difference detected.
+# Compile Architecture "Memorie_ROM_ID_Card" of Entity "Memorie_ROM_ID_Card"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.4 [s]

@@ -1,0 +1,60 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=proiect2
+
+[Library]
+proiect2=.\proiect2.lib
+
+[$LibMap$]
+proiect2=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=bancomat|bancomat|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/Main.vhd=-1
+/Chitanta.vhd=-1
+/Schimbare_PIN.vhd=-1
+/Depunere_numerar.vhd=-1
+/Extragere_numerar.vhd=-1
+/Interogare_sold.vhd=-1
+/Comparator_PIN.vhd=-1
+/Comparator_ID.vhd=-1
+/Memorie_RAM_PIN.vhd=-1
+/Interogare sold.awf=-1
+/Memorie_ROM_ID_CARD.vhd=-1
+
+[Files.Data]
+.\src\Main.vhd=VHDL Source Code
+.\src\Chitanta.vhd=VHDL Source Code
+.\src\Schimbare_PIN.vhd=VHDL Source Code
+.\src\Depunere_numerar.vhd=VHDL Source Code
+.\src\Extragere_numerar.vhd=VHDL Source Code
+.\src\Interogare_sold.vhd=VHDL Source Code
+.\src\Comparator_PIN.vhd=VHDL Source Code
+.\src\Comparator_ID.vhd=VHDL Source Code
+.\src\Memorie_RAM_PIN.vhd=VHDL Source Code
+.\src\Interogare sold.awf=Waveform File
+.\src\Memorie_ROM_ID_CARD.vhd=VHDL Source Code
+

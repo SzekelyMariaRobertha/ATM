@@ -1,0 +1,10 @@
+i<>.\src\Main.vhd
+i<>.\src\Schimbare_PIN.vhd
+i<>.\src\Depunere_numerar.vhd
+i<>.\src\Extragere_numerar.vhd
+i<>.\src\Interogare_sold.vhd
+i<>.\src\Comparator_PIN.vhd
+i<>.\src\Comparator_ID.vhd
+i<>.\src\Memorie_ROM_PIN.vhd
+i<>.\src\Memorie_ROM_ID_CARD.vhd
+i<>.\src\Chitanta.vhd

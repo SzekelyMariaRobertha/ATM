@@ -1,0 +1,24 @@
+5014
+~E 1 "./src/Comparator_PIN.vhd" 6 comparator_pin
+~A 1 "./src/Comparator_PIN.vhd" 16 comparator_pin
+~E 1 "./src/Chitanta.vhd" 6 chitanta
+~A 1 "./src/Chitanta.vhd" 13 chitanta
+~E 1 "./src/Main.vhd" 6 bancomat
+~A 1 "./src/Main.vhd" 33 bancomat
+~E 1 "./src/Comparator_ID.vhd" 6 comparator_id
+~A 1 "./src/Comparator_ID.vhd" 14 comparator_id
+~E 1 "./src/Memorie_RAM_PIN.vhd" 6 memorie_ram_pin
+~A 1 "./src/Memorie_RAM_PIN.vhd" 16 memorie_ram_pin
+~E 1 "./src/Extragere_numerar.vhd" 6 extragere_numerar
+~A 1 "./src/Extragere_numerar.vhd" 19 comparator_extragere_suma
+~E 1 "./src/Depunere_numerar.vhd" 6 depunere_numerar
+~A 1 "./src/Depunere_numerar.vhd" 16 depunere_numerar
+~E 1 "./src/Interogare_sold.vhd" 6 interogare_sold
+~A 1 "./src/Interogare_sold.vhd" 15 interogare_sold
+~E 1 "./src/Memorie_ROM_PIN.vhd" 7 memorie_rom_pin
+~A 1 "./src/Memorie_ROM_PIN.vhd" 16 memorie_rom_pin
+~E 1 "./src/Memorie_ROM_ID_CARD.vhd" 7 memorie_rom_id_card
+~A 1 "./src/Memorie_ROM_ID_CARD.vhd" 14 memorie_rom_id_card
+~E 1 "./src/Schimbare_PIN.vhd" 6 schimbare_pin
+~A 1 "./src/Schimbare_PIN.vhd" 15 schimbare_rom_pin
+~A 1 "./src/Schimbare_PIN.vhd" 16 schimbare_ram_pin

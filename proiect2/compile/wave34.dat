@@ -1,0 +1,52 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "a#28#std_logic_vector(3 downto 0)1 ricd3 0 e#9#std_logicc9 UX01ZWLH-"
+I 2 "e#9#std_logicc9 UX01ZWLH-"
+$BUS IN 17 1 4 ID_introdus
+$SC 1-13/4
+$IN +5 2 CS
+$IN +4 2 writeenable
+$BUS IN 42 1 4 PIN_RAM
+$SC 26-38/4
+$BUS IN 59 1 4 PIN_introdus
+$SC 43-55/4
+I 3 "a#29#std_logic_vector(11 downto 0)1 ricd11 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS IN +53 3 12 S_cont
+$SC 60-+44/4
+I 4 "a#28#std_logic_vector(1 downto 0)1 ricd1 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS IN +13 4 2 alegere_optiune
+$SC +-8 +4
+$BUS IN +53 3 12 S_banca
+$SC 118-+44/4
+$BUS IN +53 3 12 S_extragere
+$SC 167-+44/4
+$BUS IN +53 3 12 S_introdusa
+$SC 216-+44/4
+$IN +5 2 optiune
+$OUT +4 2 Q
+$OUT +4 2 OK_ID
+$BUS OUT +52 3 12 S_cont_nou
+$SC 277-+44/4
+$BUS OUT +53 3 12 OK_afisare
+$SC 326-+44/4
+$OUT +5 2 OK_PIN
+$BUS OUT +52 3 12 S_banca_nou
+$SC 379-+44/4
+$BUS OUT +53 3 12 S_nou
+$SC 428-+44/4
+$BUS OUT +53 3 12 5 0 a
+$SC 477-+44/4
+$OUT +5 2 OK_extragere
+$BUS OUT +20 1 4 PIN_card_RAM
+$SC 530-+12/4
+$BUS OUT +21 1 4 ID_ROM
+$SC 547-+12/4
+$BUS S +21 1 4 out_rom
+$SC 564-+12/4
+$BUS S +21 1 4 4 1 pin_ra
+$SC 581-+12/4
+$S +5 2 ok_id_signal
+$S +4 2 3 7 pin
+$BUS S +20 1 4 PIN_nou
+$SC 606-+12/4
+$ENDWAVE

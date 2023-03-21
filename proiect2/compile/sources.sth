@@ -1,0 +1,15 @@
+[Files List]
+c:\program files (x86)\aldec\active\VLIB\STD/src/standard.vhd=S
+c:\program files (x86)\aldec\active\VLIB\IEEE/src/stdlogic.vhd=S
+c:\program files (x86)\aldec\active\VLIB\IEEE/src/arith.vhd=S
+c:\program files (x86)\aldec\active\VLIB\IEEE/src/unsigned.vhd=S
+C:\Users\orbea\Desktop\Proiect_ATM\proiect2/src/Chitanta.vhd=S
+C:\Users\orbea\Desktop\Proiect_ATM\proiect2/src/Schimbare_PIN.vhd=S
+C:\Users\orbea\Desktop\Proiect_ATM\proiect2/src/Depunere_numerar.vhd=S
+C:\Users\orbea\Desktop\Proiect_ATM\proiect2/src/Extragere_numerar.vhd=S
+C:\Users\orbea\Desktop\Proiect_ATM\proiect2/src/Interogare_sold.vhd=S
+C:\Users\orbea\Desktop\Proiect_ATM\proiect2/src/Comparator_PIN.vhd=S
+C:\Users\orbea\Desktop\Proiect_ATM\proiect2/src/Comparator_ID.vhd=S
+C:\Users\orbea\Desktop\Proiect_ATM\proiect2/src/Memorie_RAM_PIN.vhd=S
+C:\Users\orbea\Desktop\Proiect_ATM\proiect2/src/Memorie_ROM_ID_CARD.vhd=S
+C:\Users\orbea\Desktop\Proiect_ATM\proiect2/src/Main.vhd=S
